@@ -15,7 +15,9 @@ $ npm run bot
 ```
 ## License
 
-GPL-3.0 © [Stebulous](http://stebulous.xyz)
+GPL-3.0 © [Stebulous](http://stebulous.xyz)  
+  
+#F*ck you mads. Also gg.
 
 
 [npm-image]: https://badge.fury.io/js/super-meme-boi.svg
