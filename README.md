@@ -21,4 +21,4 @@ My [hangout server][1]! Come join us!
 * Can i use this on my own server?  
 If you know how, you are welcome to as long as you respect the liscense!
 
-[1](http://stebulous.xyz/discord)
+[1][http://stebulous.xyz/discord]
