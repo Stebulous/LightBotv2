@@ -15,8 +15,10 @@ Commands will be listed here but for now this is empty because i just started th
 
 
 # FAQ
-* What discord server is this being used on?
+* What discord server is this being used on?  
 My [hangout server][1]! Come join us!
 
-* Can i use this on my own server?
+* Can i use this on my own server?  
 If you know how, you are welcome to as long as you respect the liscense!
+
+[1](http://stebulous.xyz/discord)
