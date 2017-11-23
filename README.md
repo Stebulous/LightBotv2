@@ -1,24 +1,28 @@
-# SuperMemeBoi (The Bot)
-This is a testing grounds for me and is not exactly 'useful' to anyone that doesn't delve into memes (and potentially offensive memes).
+# super-meme-boi [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+> A bot i&#39;m developing to test my skills and learn new things.
+
+## Installation
+
+Clone this repository, and run:
+```sh
+$ npm install
+```
+
+## Usage
+
+```sh
+$ npm run bot
+```
+## License
+
+GPL-3.0 © [Stebulous](http://stebulous.xyz)
 
 
-
-
-
-
-# Commands
-Commands will be listed here but for now this is empty because i just started this repo. Give us time.
-
-
-
-
-
-
-# FAQ
-* What discord server is this being used on?  
-My [hangout server][1]! Come join us!
-
-* Can i use this on my own server?  
-If you know how, you are welcome to as long as you respect the liscense!
-
-[1]: http://stebulous.xyz/discord
+[npm-image]: https://badge.fury.io/js/super-meme-boi.svg
+[npm-url]: https://npmjs.org/package/super-meme-boi
+[travis-image]: https://travis-ci.org/Crystal-Development/super-meme-boi.svg?branch=master
+[travis-url]: https://travis-ci.org/Crystal-Development/super-meme-boi
+[daviddm-image]: https://david-dm.org/Crystal-Development/super-meme-boi.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/Crystal-Development/super-meme-boi
+[coveralls-image]: https://coveralls.io/repos/Crystal-Development/super-meme-boi/badge.svg
+[coveralls-url]: https://coveralls.io/r/Crystal-Development/super-meme-boi

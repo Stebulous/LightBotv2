@@ -1,0 +1,83 @@
+{
+  "name": "super-meme-boi",
+  "version": "0.0.0",
+  "description": "A bot i'm developing to test my skills and learn new things.",
+  "homepage": "https://github.com/Crystal-Development/supermemeboi-bot",
+  "author": {
+    "name": "Stebulous",
+    "email": "sky34416@gmail.com",
+    "url": "http://stebulous.xyz"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    "discord",
+    "js",
+    "bot",
+    "meme",
+    "joke"
+  ],
+  "devDependencies": {
+    "coveralls": "^2.13.1",
+    "nsp": "^2.6.3",
+    "eslint": "^4.1.0",
+    "prettier": "^1.7.0",
+    "husky": "^0.14.3",
+    "lint-staged": "^4.2.1",
+    "eslint-config-prettier": "^2.4.0",
+    "eslint-plugin-prettier": "^2.2.0",
+    "eslint-config-xo": "^0.18.2",
+    "jest": "^21.0.0",
+    "jest-cli": "^21.0.0"
+  },
+  "scripts": {
+    "bot": "node ./lib/index.js",
+    "prepublish": "nsp check",
+    "pretest": "eslint .",
+    "precommit": "lint-staged",
+    "test": "jest"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ],
+    "*.json": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "xo",
+      "prettier"
+    ],
+    "env": {
+      "jest": true,
+      "node": true
+    },
+    "rules": {
+      "prettier/prettier": [
+        "error",
+        {
+          "singleQuote": true,
+          "printWidth": 90
+        }
+      ]
+    },
+    "plugins": [
+      "prettier"
+    ]
+  },
+  "repository": "Crystal-Development/super-meme-boi",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "clapp": "^1.3.1",
+    "discord.js": "^11.2.1"
+  }
+}
