@@ -1,0 +1,9 @@
+exports.run = function (bot, msg) {
+
+/* Command Function Goes Here */
+
+exports.info = {
+    name: 'Command Name',
+    usage: 'How to use command',
+    description: 'What the command does.'
+};
