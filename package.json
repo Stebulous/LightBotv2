@@ -36,7 +36,6 @@
     "bot": "node ./lib/index.js",
     "prepublish": "nsp check",
     "pretest": "eslint .",
-    "precommit": "lint-staged",
     "test": "jest"
   },
   "lint-staged": {
