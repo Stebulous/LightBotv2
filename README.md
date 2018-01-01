@@ -3,16 +3,24 @@
 
 ## Installation
 
-Clone this repository, and run:
+Clone:
+``sh
+$ git clone https://github.com/Crystal-Development/LightBot-2.0.git
+```
+Then install the package:
 ```sh
 $ npm install
 ```
-
-## Usage
-
+Now you can run it:
 ```sh
 $ npm run bot
 ```
+#### To manage with ``pm2``
+```sh
+$ cd /folder/containing/lightbot-2.0/lib
+$ pm2 start bot.js --name="NameForTheProcess"
+```
+
 ## License
 
 GPL-3.0 © [Stebulous](http://stebulous.xyz)
