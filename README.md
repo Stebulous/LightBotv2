@@ -4,7 +4,7 @@
 ## Installation
 
 Clone:
-``sh
+```sh
 $ git clone https://github.com/Crystal-Development/LightBot-2.0.git
 ```
 Then install the package:
