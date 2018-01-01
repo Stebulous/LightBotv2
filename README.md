@@ -17,7 +17,7 @@ $ npm run bot
 ```
 #### To manage with ``pm2``
 ```sh
-$ cd /folder/containing/lightbot-2.0/lib
+$ cd /lightbot-2.0/lib
 $ pm2 start bot.js --name="NameForTheProcess"
 ```
 
