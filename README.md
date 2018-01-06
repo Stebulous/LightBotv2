@@ -1,4 +1,4 @@
-# super-meme-boi <iframe src="https://titanembeds.com/embed/320565396711276545" height="600" width="800" frameborder="0"></iframe>
+# super-meme-boi [![Discord Badge](https://discordapp.com/api/guilds/320565396711276545/embed.png)](https://discord.io/thericefields)
 > A bot i&#39;m developing to test my skills and learn new things.
 
 ## Installation
