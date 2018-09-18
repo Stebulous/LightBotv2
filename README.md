@@ -1,4 +1,4 @@
-# super-meme-boi 
+# LightBot v2
 [![Discord Badge](https://discordapp.com/api/guilds/320565396711276545/embed.png)](https://discord.io/thericefields)
 > A bot i&#39;m developing to test my skills and learn new things.
 
@@ -16,7 +16,9 @@ Now you can run it:
 ```sh
 $ npm run bot
 ```
-## To manage with ``pm2``
+## To manage with ``pm2``  
+install [pm2](https://github.com/Unitech/pm2)  
+
 ```sh
 $ cd /lightbot-2.0/lib
 $ pm2 start bot.js --name="NameForTheProcess"
