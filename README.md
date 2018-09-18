@@ -1,5 +1,5 @@
 # LightBot v2
-[![Discord Badge](https://discordapp.com/api/guilds/320565396711276545/embed.png)](https://discord.io/thericefields)
+[![Discord Badge](https://discordapp.com/api/guilds/320565396711276545/embed.png)](https://stebulo.us/discord)
 > A bot i&#39;m developing to test my skills and learn new things.
 
 ## Installation
