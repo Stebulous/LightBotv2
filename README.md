@@ -20,7 +20,7 @@ $ npm run bot
 install [pm2](https://github.com/Unitech/pm2)  
 
 ```sh
-$ cd /lightbot-2.0/lib
+$ cd PATH/TO/LightBotv2/lib
 $ pm2 start bot.js --name="NameForTheProcess"
 ```
 
