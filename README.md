@@ -6,7 +6,7 @@
 
 Clone:
 ```sh
-$ git clone https://github.com/Crystal-Development/LightBot-2.0.git
+$ git clone https://github.com/Stebulous/LightBotv2.git
 ```
 Then install the package:
 ```sh
