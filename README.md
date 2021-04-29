@@ -2,6 +2,10 @@
 [![Discord Badge](https://discordapp.com/api/guilds/320565396711276545/embed.png)](https://stebulo.us/discord)
 > A bot i&#39;m developing to test my skills and learn new things.
 
+# WARNING:
+### This bot is old and using deprecated api functions, as well as an outdated version of Discord.js
+### It is recommened to instead use my new bot's repository, found [here](https://github.com/Stebulous/Delta).
+
 ## Installation
 
 Clone:
@@ -26,7 +30,7 @@ $ pm2 start bot.js --name="NameForTheProcess"
 
 ## License
 
-GPL-3.0 © [Stebulous](http://stebulous.xyz)
+GPL-3.0 © [Stebulous](https://dosage.wtf)
 
 
 [npm-image]: https://badge.fury.io/js/super-meme-boi.svg
